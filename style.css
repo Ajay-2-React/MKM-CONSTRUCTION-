@@ -1,0 +1,24 @@
+body{
+  background : black;
+}
+
+#navbtn1{
+  background: transparent;
+  border : none;
+}
+#services{
+  
+  height : 20px;
+}
+.services center img{
+  width : 100vw;
+  height : 500px;
+}
+
+#card img{
+  height : 300px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
